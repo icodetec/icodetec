@@ -23,9 +23,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <div>
-<img align="left" width="530em" src="https://github-readme-stats.vercel.app/api?username=icodetec&show_icons=true&theme=vision-friendly-dark" alt="felipe stats"/>
-&nbsp;
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icodetec&layout=compact&theme=vision-friendly-dark" alt="felipe most languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=icodetec&show_icons=true&theme=vision-friendly-dark" alt="felipe stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icodetec&layout=compact&theme=vision-friendly-dark" alt="felipe most languages"/>
 </div>
 
 <!--
