@@ -23,7 +23,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=icodetec&show_icons=true&theme=vision-friendly-radical" alt="felipe stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=icodetec&show_icons=true&theme=radical" alt="felipe stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icodetec&layout=compact&theme=vision-friendly-dark" alt="felipe most languages"/>
 </div>
 
