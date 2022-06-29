@@ -1,7 +1,7 @@
 
-<h1>👨‍💻💾Felipe Alves</h1>
+<span>👨‍💻💾Felipe Alves</span>
 
-<p>👨‍💻💾Felipe Alves</p>
+<span>#Programador</span>
 
 <!--
 **icodetec/icodetec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
