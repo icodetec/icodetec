@@ -24,7 +24,7 @@
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=icodetec&show_icons=true&theme=merko" alt="felipe stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icodetec&layout=compact&theme=vision-friendly-dark" alt="felipe most languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icodetec&layout=compact&theme=merko" alt="felipe most languages"/>
 </div>
 
 <!--
